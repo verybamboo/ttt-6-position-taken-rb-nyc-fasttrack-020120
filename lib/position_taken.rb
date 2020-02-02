@@ -15,6 +15,6 @@ def position_taken?(board, index)
     false
   end
   
-  !(board[index] == " ")
+  #!(board[index] == " ")
   
 end
